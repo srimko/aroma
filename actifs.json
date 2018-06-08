@@ -1,0 +1,144 @@
+{
+  "actifs": [
+    {
+      "name": "Allantoïne",
+      "proprietes": ["Apaisant"],
+      "dosage": 1,
+      "issue": ["Cuir chevelu sensible","irrité"],
+      "type": "solid"
+    },
+    {
+      "name": "Bisabolol",
+      "proprietes": ["Apaisant"],
+      "dosage": 0.5,
+      "issue": ["Cuir chevelu sensible","irrité"],
+      "type": "liquide"
+    },
+    {
+      "name": "Skin repair",
+      "proprietes": ["Restructurant"],
+      "dosage": 2,
+      "issue": ["Cuir chevelu sensible","irrité"],
+      "type": "liquide"
+    },
+    {
+      "name": "Provitamine B5",
+      "proprietes": ["Apaiasant","fortifiant","hydratant"],
+      "dosage": 3,
+      "issue": ["Cuir chevelu sensible","irrité","Cheveux fins", "sans volume", "Chute de cheveux"],
+      "type": "liquide"
+    },
+    {
+      "name": "AHA Acides de fruits",
+      "proprietes": ["Améliore la brillance"],
+      "dosage": 5,
+      "issue": ["Cheveux ternes", "sans éclat"],
+      "type": "liquide"
+    },
+    {
+      "name": "Keratin'protect",
+      "proprietes": ["Embellisseur capillaire", "améliore la brillance", "Protecteur et embellisseur capillaire"],
+      "dosage": 5,
+      "issue": ["Cheveux ternes", "sans éclat", "Cheveux secs et abîmés"],
+      "type": "liquide"
+    },
+    {
+      "name": "Fucocert",
+      "proprietes": ["Gainant","lissant", "améliore la brillance"],
+      "dosage": 5,
+      "issue": ["Cheveux ternes", "sans éclat", "Cheveux secs et abîmés", "Cheveux indisciplinés", "frisottis"],
+      "type": "liquide"
+    },
+    {
+      "name": "Protéines de riz",
+      "proprietes": ["Hydratant","fortifiant"],
+      "dosage": 5,
+      "issue": ["Cheveux fins", "sans volume"],
+      "type": "liquide"
+    },
+    {
+      "name": "Collagène végétal",
+      "proprietes": ["Volumateur"],
+      "dosage": 5,
+      "issue": ["Cheveux fins", "sans volume"],
+      "type": "liquide"
+    },
+    {
+      "name": "Protéines de soie",
+      "proprietes": ["Hydratant", "gainant"],
+      "dosage": 3,
+      "issue": ["Cheveux secs et abîmés"],
+      "type": "liquide"
+    },
+    {
+      "name": "Honeyquat",
+      "proprietes": ["Conditionneur capillaire"],
+      "dosage": 5,
+      "issue": ["Cheveux secs et abîmés", "Cheveux indisciplinés", "frisottis"],
+      "type": "liquide"
+    },
+    {
+      "name": "Céramides végétales",
+      "proprietes": ["Protecteur"],
+      "dosage": 5,
+      "issue": ["Cheveux secs et abîmés"],
+      "type": "liquide"
+    },
+    {
+      "name": "Acide Hyaluronique",
+      "proprietes": ["Hydratant"],
+      "dosage": 0.5,
+      "issue": ["Cheveux secs et abîmés"],
+      "type": "solid"
+    },
+    {
+      "name": "Complexe hydratation intense",
+      "proprietes": ["Hydratant"],
+      "dosage": 3,
+      "issue": ["Cheveux secs et abîmés"],
+      "type": "liquide"
+    },
+    {
+      "name": "Algo'zinc",
+      "proprietes": ["Sébo-régulateur","purifiant"],
+      "dosage": 5,
+      "issue": ["Cheveux gras", "Pellicules"],
+      "type": "liquide"
+    },
+    {
+      "name": "Bacti-Pur",
+      "proprietes": ["Sébo-régulateur","purifiant"],
+      "dosage": 2,
+      "issue": ["Cheveux gras", "Pellicules"],
+      "type": "liquide"
+    },
+    {
+      "name": "Acide salicylique végétal",
+      "proprietes": ["purifiant"],
+      "dosage": 5,
+      "issue": ["Pellicules"],
+      "type": "liquide"
+    },
+    {
+      "name": "Urée",
+      "proprietes": ["Hydratant", "kératolytique"],
+      "dosage": 5,
+      "issue": ["Pellicules"],
+      "type": "solid"
+    },
+    {
+      "name": "Maca vital",
+      "proprietes": ["Stimule la pousse", "fortifiant"],
+      "dosage": 5,
+      "issue": ["Chute de cheveux"],
+      "type": "liquide"
+    },
+    {
+      "name": "Phyto'liss",
+      "proprietes": ["Lissant"],
+      "dosage": 2,
+      "issue": ["Cheveux indisciplinés", "frisottis"],
+      "type": "liquide"
+    }
+  ]
+}
